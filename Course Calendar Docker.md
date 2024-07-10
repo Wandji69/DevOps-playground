@@ -1,4 +1,6 @@
-[![hackmd-github-sync-badge](https://hackmd.io/ekWplAd8QkmnXH8JYg_RsQ/badge)](https://hackmd.io/ekWplAd8QkmnXH8JYg_RsQ)
+[![hackmd-github-sync-badge]
+(https://hackmd.io/ekWplAd8QkmnXH8JYg_RsQ/badge)]
+(https://hackmd.io/ekWplAd8QkmnXH8JYg_RsQ)
 Sure! Below is a detailed course calendar for a technical writing series on DevOps Engineering, starting with Docker. Each document is designed to be concise (not exceeding 8 minutes of reading time).
 
 ### Course Calendar for DevOps Engineering with Docker
